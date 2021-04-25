@@ -5,6 +5,7 @@
 #### :question: Not sure how to get started? Click [here](/GETTING_STARTED.md)! 
 
 ## :zap: Outline
+test
 
 ### **Week 1** - Get Started with Azure Functions!
 * Set up tools needed for the "Emotion Reader" project
